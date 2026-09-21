@@ -1,0 +1,1 @@
+Place the original Shree Aadrika logo image here as assets/aadrika_logo.png. The Flutter UI currently uses a vector-safe fallback so the project compiles even before the binary logo is added.
